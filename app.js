@@ -7,7 +7,7 @@ const books = [
     price: 595,
     rating: 4.9,
     description: "Es una obra inspiradora que enseña cómo Dios utiliza los procesos, las pruebas y los desafíos de la vida para preparar a sus hijos para un propósito mayor. Basado principalmente en la historia de José, este libro revela que cada dificultad tiene un propósito divino y que los momentos más difíciles pueden convertirse en la plataforma para alcanzar nuevos niveles de crecimiento, madurez, liderazgo y bendición. Una guía práctica para aprender a confiar en Dios mientras Él nos forma para nuestro destino.",
-    cover: "/IMG/procesado_subir.jpg",
+    cover: "IMG/procesado_subir.jpg",
   },
   {
     id: "detras-del-manto",
