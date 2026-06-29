@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 620">
+  <rect width="420" height="620" rx="18" fill="#7c2d12"/>
+  <rect x="0" width="46" height="620" fill="#000" opacity=".18"/>
+  <path d="M92 216c52-48 117-66 196-54 28 4 48 18 58 42-78-14-146 5-203 58-30 28-56 36-78 24 4-26 13-49 27-70z" fill="#f1c27d"/>
+  <path d="M116 350h220M116 386h180" stroke="#fff" stroke-width="11" stroke-linecap="round" opacity=".78"/>
+  <text x="76" y="472" fill="#fff" font-family="Georgia,serif" font-size="48" font-weight="700">Historia</text>
+  <text x="76" y="526" fill="#fff" font-family="Georgia,serif" font-size="48" font-weight="700">del Caribe</text>
+  <text x="76" y="572" fill="#f1c27d" font-family="Arial,sans-serif" font-size="22" font-weight="700">Malaquias Belen</text>
+</svg>
